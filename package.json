@@ -1,0 +1,36 @@
+{
+  "name": "jobalytics",
+  "version": "1.0.0",
+  "description": "EngHack18' Project to get you hired",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlielin99/Jobalytics.git"
+  },
+  "author": "Charlie Lin Brad Huang Calvin Woo Nick Tommasini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlielin99/Jobalytics/issues"
+  },
+  "homepage": "https://github.com/charlielin99/Jobalytics#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "formidable": "^1.2.1",
+    "fs": "0.0.1-security",
+    "helmet": "^3.12.1",
+    "mongoose": "^5.1.6",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^5.0.1",
+    "python-shell": "^0.5.0",
+    "request": "^2.87.0",
+    "require": "^2.4.20",
+    "uglify-js": "^3.3.27",
+    "unfluff": "^3.0.1"
+  }
+}

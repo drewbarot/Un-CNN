@@ -85,3 +85,4 @@ We want to further explore GAN implementations, and speed up the model. GANs see
 
 # Research
 https://arxiv.org/pdf/1412.6572.pdf https://brunolopezgarcia.github.io/2018/05/09/Crafting-adversarial-faces.html https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networ-97a379b2 https://medium.com/@mahendrakariya/paper-discussion-explaining-and-harnessing-adversarial-examples-908a1b7123b5 https://github.com/akshaychawla/Adversarial-Examples-in-PyTorch https://arxiv.org/pdf/1801.00349.pdf
+

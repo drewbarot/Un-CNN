@@ -35,9 +35,6 @@ def prediction(image_mod):
     predicted_classes = inception_v3.decode_predictions(predictions, top=1)
     imagenet_id, name, confidence = predicted_classes[0][0]
     print("This is a {} with {:.4}% confidence!".format(name, confidence * 100))
-    
-def initial_prediction(img_mod):
-    print("This is a Drake with 97.214476% confidence!")
 
 '''Start the image modification'''
 def modifier(image_mod):    
@@ -117,6 +114,5 @@ def modifier(image_mod):
 
 
 # what is use image??????
-initial_prediction(use_image)
 modifier(use_image)
 prediction("hacked-image.jpg")
